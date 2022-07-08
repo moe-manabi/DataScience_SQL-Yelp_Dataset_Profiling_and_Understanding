@@ -1,2 +1,2 @@
-# DataScience_SQL-Yelp_Dataset_Profiling_and_Understanding
+# <b>*DataScience SQL Yelp Dataset Profiling and Understanding*
 Profiling and Understanding a Dataset 
